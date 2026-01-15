@@ -1,4 +1,3 @@
-
 Post 1 - https://medium.com/@dilshankumarage571/learning-react-node-express-by-building-real-projects-beginner-journey-e698707cddaa
 Post 2 - https://medium.com/@dilshankumarage571/react-basics-finally-made-sense-when-i-built-a-counter-app-57a66ad1b884
 Post 3 - https://medium.com/@dilshankumarage571/my-first-node-js-express-api-and-why-i-kept-seeing-cannot-get-add-7fe6e3669569
@@ -6,4 +5,4 @@ Post 4 - https://medium.com/@dilshankumarage571/what-crud-really-means-and-why-a
 Post 5 - https://medium.com/@dilshankumarage571/building-my-first-react-todo-app-where-everything-finally-came-together-bf994954d370
 Post 6 - https://medium.com/@dilshankumarage571/connecting-react-to-express-building-my-first-full-stack-notes-app-48c4eec14b46
 Post 7 - https://medium.com/@dilshankumarage571/building-a-full-stack-todo-app-with-react-express-and-sqlite-e65b9ecc9431
-
+Post 8 - https://medium.com/@dilshankumarage571/what-i-learned-after-building-multiple-react-node-projects-as-a-beginner-20a654f52d7b
